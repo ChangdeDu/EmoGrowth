@@ -57,7 +57,3 @@ These parameters include:
 - **seed**: The random seed adopted for shuffling the class order. According to the benchmark setting, it is set to 1993 by default.
 
 Other parameters in terms of model optimization, e.g., batch size, optimization epoch, learning rate, learning rate decay, weight decay, milestone, and temperature, can be modified in the corresponding Python file.
-
-### Datasets
-Brain27 and Video27: /nfs/diskstation/DataStation/KaichengFu/CIL_data/iScience
-Audio28: /nfs/diskstation/DataStation/KaichengFu/CIL_data/PNAS
