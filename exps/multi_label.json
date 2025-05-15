@@ -1,0 +1,23 @@
+{
+    "prefix": "reproduce",
+    "dataset": "iScience",
+    "subject": "visual",
+    "memory_size": 500,
+    "memory_per_class": 20,
+    "fixed_memory": true,
+    "shuffle": true,
+    "init_cls": 9,
+    "increment": 9,
+    "model_name": "clif",
+    "convnet_type": "clif",
+    "buffer_type": "prs",
+    "device": ["0"],
+    "seed": [1993],
+    "input_size": 1000,
+    "feature_dim": 64,
+    "total_class": 27,
+    "ld": false,
+    "lamda_kd_relation_aff": 0.1,
+    "lamda_kd_relation_data": 1,
+    "lamda_le": 0.005
+}
