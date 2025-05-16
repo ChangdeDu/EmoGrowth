@@ -1,4 +1,4 @@
-# Code for paper “EmoGrowth: Incremental Multi-label Emotion Decoding with Augmented Emotional Relation Graph. ICML 2025”
+# Code for paper “EmoGrowth: Incremental Multi-label Emotion Decoding with Augmented Emotional Relation Graph". ICML 2025
 > - authors: Kaicheng Fu, Changde Du, Jie Peng, Kunpeng Wang, Shuangchen Zhao, Xiaoyu Chen, Huiguang He  
 
 We developed multi-label incremental learning code based on the PyCIL toolkit.
